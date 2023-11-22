@@ -4,7 +4,7 @@ log4j = "2.21.1"
 graphql = "7.0.2"
 
 [libraries]
-annotations = "org.jetbrains:annotations:24.0.1"
+annotations = "org.jetbrains:annotations:24.1.0"
 coroutines = "org.jetbrains.kotlinx:kotlinx-coroutines-core:1.7.3"
 # com.expediagroup:graphql-kotlin-ktor-server:7.0.2
 graphql-server = { module = "com.expediagroup:graphql-kotlin-ktor-server", version.ref = "graphql" }
